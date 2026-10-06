@@ -1,18 +1,29 @@
 # Software Engineering Roadmap
 
-A documented journey toward becoming a professional software engineer,
-focused on backend engineering, computer science fundamentals, and
-distributed systems.
+software-engineering-roadmap/
+│
+├── python/
+│   └── day-01/
+│
+├── dsa/
+├── backend/
+├── systems/
+├── databases/
+├── projects/
+├── notes/
+│
+└── README.md
 
-## Current Focus
+## Overview
 
-Python fundamentals and computational thinking.
+This repository is organized by learning area so you can track progress across Python fundamentals, data structures and algorithms, backend engineering, systems, databases, and projects.
 
-## Goals
+## Learning Tracks
 
-- Develop strong programming fundamentals
-- Master data structures and algorithms
-- Understand computer systems and networking
-- Build production-style backend applications
-- Learn databases and distributed systems
-- Build a portfolio demonstrating real engineering ability
+- Python fundamentals and exercises in `python/day-01/`
+- Data structures and algorithms in `dsa/`
+- Backend engineering in `backend/`
+- Systems and infrastructure topics in `systems/`
+- Database concepts and practice in `databases/`
+- Project work in `projects/`
+- Notes and references in `notes/`
