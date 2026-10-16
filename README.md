@@ -2,7 +2,7 @@
 
 software-engineering-roadmap/
 │
-├── python/
+├── java/
 │   └── day-01/
 │
 ├── dsa/
@@ -20,7 +20,7 @@ This repository is organized by learning area so you can track progress across P
 
 ## Learning Tracks
 
-- Python fundamentals and exercises in `python/day-01/`
+- Java fundamentals and exercises in `java/day-01/`
 - Data structures and algorithms in `dsa/`
 - Backend engineering in `backend/`
 - Systems and infrastructure topics in `systems/`
